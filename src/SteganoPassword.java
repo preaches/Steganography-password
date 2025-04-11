@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class StegoPassword {
+public class SteganoPassword {
     private static final String ALGORITHM = "AES";
     private static final int BITS_PER_PIXEL = 3; // RGB channels
     private static final Scanner scanner = new Scanner(System.in);
